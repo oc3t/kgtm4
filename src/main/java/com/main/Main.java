@@ -1,8 +1,3 @@
-/**
- *
- * @author fatih
- */
-
 package com.main;
 
 public class Main {
